@@ -1,6 +1,6 @@
 DB_CONFIG = {
     'host': 'localhost',
-    'user': 'your_username',
-    'password': 'your_password',
+    'user': 'root',
+    'password': 'hudson@01',
     'database': 'face_recognition_db'
 }
