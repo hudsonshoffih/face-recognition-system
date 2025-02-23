@@ -1,7 +1,8 @@
 import cv2
 import face_recognition
 import numpy as np
-from ..database.database_manager import DatabaseManager
+#from ..database.database_manager import DatabaseManager
+from src.database.database_manager import DatabaseManager
 from .face_detector import FaceDetector
 
 class FaceRecognitionSystem:
